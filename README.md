@@ -1,4 +1,4 @@
-# 안녕하세요, 최현수입니다 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 > "완성도는 숫자로 증명한다"는 신념으로 개발하는 백엔드 · AI 개발자입니다.
 
