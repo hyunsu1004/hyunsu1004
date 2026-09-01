@@ -107,5 +107,5 @@ VC·스타트업의 투자 이력과 심사 데이터를 관리하는 CRM 시스
 ## 📫 Contact
 
 - GitHub: [@hyunsu1004](https://github.com/hyunsu1004)
--** Blog: [sudang2.tistory.com](https://sudang2.tistory.com)**
+- Blog: [sudang2.tistory.com](https://sudang2.tistory.com)
 - Email: chlgustn3680@naver.com
