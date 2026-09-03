@@ -14,6 +14,10 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+**Data / Streaming**
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
 **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
@@ -26,6 +30,21 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ## 🚀 Projects
+
+### ⚽ [MyBest11 | 축구 베스트11 추천 서비스](https://github.com/hyunsu1004/MyBEST11-BE)
+기획부터 배포까지 전담한 1인 풀스택 프로젝트, 솔로 포트폴리오에서 멀티 시스템 플랫폼으로 확장
+
+**✨ 담당**
+- MySQL(트랜잭션성 데이터) + Neo4j AuraDB(관계 탐색) 폴리글랏 퍼시스턴스 설계
+- Python ETL 파이프라인 구축, GPT-4o-mini 기반 라인업 평가 코멘트 생성
+- Kafka(KRaft 모드) 기반 실시간 이벤트 스트리밍 파이프라인 구축, 컨슈머 그룹 2개로 역할 분리
+- Python ValidationRunner + Slack Webhook 알림 기반 데이터 품질 모니터링 시스템 및 대시보드 구현
+- React 프론트엔드 개발, Railway(백엔드/MySQL/Kafka/Redis) + Vercel(프론트) + Neo4j AuraDB 배포 및 인프라 트러블슈팅
+
+**Tech**
+`Java` `Spring Boot` `MySQL` `Neo4j AuraDB` `Kafka` `Redis` `Python` `React` `Railway` `Vercel`
+
+---
 
 ### 💪 [Comhere | 블록체인 기반 헬스 커뮤니티](https://github.com/KNU-DXworks/Backend)
 인바디 데이터를 활용한 AI 기반 맞춤형 건강 추천 서비스
@@ -55,19 +74,6 @@ VC·스타트업의 투자 이력과 심사 데이터를 관리하는 CRM 시스
 
 **Tech**
 `Java` `Spring Boot` `JPA` `MySQL` `Selenium` `OpenAI API`
-
----
-
-### ⚽ [MyBest11 | 축구 베스트11 추천 서비스](https://github.com/hyunsu1004/MyBEST11-BE)
-기획부터 배포까지 전담한 1인 풀스택 프로젝트
-
-**✨ 담당**
-- MySQL(트랜잭션성 데이터) + Neo4j AuraDB(관계 탐색) 폴리글랏 퍼시스턴스 설계
-- Python ETL 파이프라인 구축, GPT-4o-mini 기반 라인업 평가 코멘트 생성
-- React 프론트엔드 개발, Railway/Vercel 배포 및 인프라 트러블슈팅
-
-**Tech**
-`Java` `Spring Boot` `MySQL` `Neo4j AuraDB` `Python` `React` `Railway` `Vercel`
 
 ---
 
