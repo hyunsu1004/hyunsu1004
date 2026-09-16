@@ -50,7 +50,7 @@
 
 ---
 
-### 💪 [Comhere | 블록체인 기반 헬스 커뮤니티](https://github.com/KNU-DXworks/Backend)
+### 💪 [Comhere | 블록체인 기반 헬스 커뮤니티](https://github.com/hyunsu1004/Comhere-inte.git)
 인바디 데이터를 활용한 AI 기반 맞춤형 건강 추천 서비스
 
 **✨ 담당**
