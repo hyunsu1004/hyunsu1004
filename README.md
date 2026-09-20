@@ -107,8 +107,8 @@ VC·스타트업의 투자 이력과 심사 데이터를 관리하는 CRM 시스
 
 | 저작물명 | 등록번호 | 등록일 | 등록기관 |
 |---|---|---|---|
-| 투자 고객 관리 시스템 (CLODGE CRM Project) | 제C-2024-052828호(docs/certificates/clodge-crm-copyright.pdf) | 2024.12.13 | 한국저작권위원회 |
-| 블록체인을 활용한 헬스 커뮤니티 서비스 (Health community services on the blockchain) | 제C-2025-024450호(docs/certificates/health-community-copyright.pdf)| 2025.07.02 | 한국저작권위원회 |
+| 투자 고객 관리 시스템 (CLODGE CRM Project) | [제C-2024-052828호](docs/certificates/clodge-crm-copyright.pdf) | 2024.12.13 | 한국저작권위원회 |
+| 블록체인을 활용한 헬스 커뮤니티 서비스 (Health community services on the blockchain) | [제C-2025-024450호](docs/certificates/health-community-copyright.pdf)| 2025.07.02 | 한국저작권위원회 |
 
 > 두 저작물 모두 경북대학교산학협력단 명의로 등록되었으며, 각 프로젝트의 기획·개발에 참여했습니다.
 
