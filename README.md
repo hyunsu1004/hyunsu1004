@@ -101,7 +101,7 @@ VC·스타트업의 투자 이력과 심사 데이터를 관리하는 CRM 시스
 - [AdSP](adsp_cert.pdf)
 - [SQLD](sqld_cert.pdf)
 - [한국사능력검정 1급](korea_history.pdf)
-- OPIC IH 
+- [OPIC IH](docs/certificates/hyunsu_opic.pdf)
 
 **SW 저작권 등록**
 
